@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\studies\\VII\\cw_dotnet\\cw6\\UslugaSieciowa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5051D27D-3DED-4111-9614-A471B05E8A37}|D:\\studies\\VII\\cw_dotnet\\cw6\\UslugaSieciowa1|d:\\studies\\vii\\cw_dotnet\\cw6\\uslugasieciowa1\\app_code\\webservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051D27D-3DED-4111-9614-A471B05E8A37}|D:\\studies\\VII\\cw_dotnet\\cw6\\UslugaSieciowa1|d:\\studies\\vii\\cw_dotnet\\cw6\\uslugasieciowa1\\app_code\\rozszerzeniastring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051D27D-3DED-4111-9614-A471B05E8A37}|D:\\studies\\VII\\cw_dotnet\\cw6\\UslugaSieciowa1|d:\\studies\\vii\\cw_dotnet\\cw6\\uslugasieciowa1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051D27D-3DED-4111-9614-A471B05E8A37}|D:\\studies\\VII\\cw_dotnet\\cw6\\UslugaSieciowa1|d:\\studies\\vii\\cw_dotnet\\cw6\\uslugasieciowa1\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051D27D-3DED-4111-9614-A471B05E8A37}|D:\\studies\\VII\\cw_dotnet\\cw6\\UslugaSieciowa1|d:\\studies\\vii\\cw_dotnet\\cw6\\uslugasieciowa1\\webservice.asmx||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RozszerzeniaString.cs",
+              "DocumentMoniker": "D:\\studies\\VII\\cw_dotnet\\cw6\\UslugaSieciowa1\\App_Code\\RozszerzeniaString.cs",
+              "RelativeDocumentMoniker": "..\\UslugaSieciowa1\\App_Code\\RozszerzeniaString.cs",
+              "ToolTip": "D:\\studies\\VII\\cw_dotnet\\cw6\\UslugaSieciowa1\\App_Code\\RozszerzeniaString.cs",
+              "RelativeToolTip": "..\\UslugaSieciowa1\\App_Code\\RozszerzeniaString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:21:01.83Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\studies\\VII\\cw_dotnet\\cw6\\UslugaSieciowa1\\Web.config",
+              "RelativeDocumentMoniker": "..\\UslugaSieciowa1\\Web.config",
+              "ToolTip": "D:\\studies\\VII\\cw_dotnet\\cw6\\UslugaSieciowa1\\Web.config",
+              "RelativeToolTip": "..\\UslugaSieciowa1\\Web.config",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-29T18:12:30.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "D:\\studies\\VII\\cw_dotnet\\cw6\\UslugaSieciowa1\\Web.Debug.config",
+              "RelativeDocumentMoniker": "..\\UslugaSieciowa1\\Web.Debug.config",
+              "ToolTip": "D:\\studies\\VII\\cw_dotnet\\cw6\\UslugaSieciowa1\\Web.Debug.config",
+              "RelativeToolTip": "..\\UslugaSieciowa1\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-29T18:11:42.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebService.asmx",
+              "DocumentMoniker": "D:\\studies\\VII\\cw_dotnet\\cw6\\UslugaSieciowa1\\WebService.asmx",
+              "RelativeDocumentMoniker": "..\\UslugaSieciowa1\\WebService.asmx",
+              "ToolTip": "D:\\studies\\VII\\cw_dotnet\\cw6\\UslugaSieciowa1\\WebService.asmx",
+              "RelativeToolTip": "..\\UslugaSieciowa1\\WebService.asmx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003504|",
+              "WhenOpened": "2024-10-29T18:11:37.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebService.cs",
+              "DocumentMoniker": "D:\\studies\\VII\\cw_dotnet\\cw6\\UslugaSieciowa1\\App_Code\\WebService.cs",
+              "RelativeDocumentMoniker": "..\\UslugaSieciowa1\\App_Code\\WebService.cs",
+              "ToolTip": "D:\\studies\\VII\\cw_dotnet\\cw6\\UslugaSieciowa1\\App_Code\\WebService.cs",
+              "RelativeToolTip": "..\\UslugaSieciowa1\\App_Code\\WebService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:10:46.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
