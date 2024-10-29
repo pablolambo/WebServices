@@ -1,0 +1,7 @@
+D:\studies\VII\cw_dotnet\cw6\BiblioteczkaWCF\bin\Debug\BiblioteczkaWCF.dll.config
+D:\studies\VII\cw_dotnet\cw6\BiblioteczkaWCF\bin\Debug\BiblioteczkaWCF.dll
+D:\studies\VII\cw_dotnet\cw6\BiblioteczkaWCF\bin\Debug\BiblioteczkaWCF.pdb
+D:\studies\VII\cw_dotnet\cw6\BiblioteczkaWCF\obj\Debug\BiblioteczkaWCF.csproj.AssemblyReference.cache
+D:\studies\VII\cw_dotnet\cw6\BiblioteczkaWCF\obj\Debug\BiblioteczkaWCF.csproj.CoreCompileInputs.cache
+D:\studies\VII\cw_dotnet\cw6\BiblioteczkaWCF\obj\Debug\BiblioteczkaWCF.dll
+D:\studies\VII\cw_dotnet\cw6\BiblioteczkaWCF\obj\Debug\BiblioteczkaWCF.pdb
